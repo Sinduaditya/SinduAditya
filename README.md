@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Content Writing Medium : [![Medium Badge](https://img.shields.io/badge/-Sindu-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@sinduaditya)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sindu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinduadityajanadi/)
 
